@@ -1,0 +1,8 @@
+{
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "build\\mysql-connector-j-8.1.0.jar",
+        "build\\javax.json.jar"
+    ]
+}
